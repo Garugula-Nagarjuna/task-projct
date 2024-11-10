@@ -1,0 +1,25 @@
+.side-bar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 19vw;
+}
+.boxi{
+    background-color: #ECEDEE;
+    height: 20vh;
+    margin: 5px;
+    padding: 15px;
+    border-radius: 14px;
+    box-shadow: 0px 3px 2px #00000040;
+    margin-bottom: 20px;
+}
+button{
+    padding: 10px;
+    background-color: #0D062D;
+    color: white;
+    border-radius: 19px;
+}
+p{
+    width: 100%;
+    font-weight: bold;
+}

@@ -1,0 +1,32 @@
+.search-filter{
+    display: flex;
+    background-color: #ECEDEE;
+    margin: auto;
+    align-items: center;
+    width: 95%;
+    height: 10vh;
+    border-radius: 20px;
+    padding: 5px;
+    justify-content: space-between;
+    margin-top: 40px;
+    box-shadow: 0px 3px 2px #00000040;
+  }
+
+  .search{
+    display: flex;
+    background-color: white;
+    box-shadow: 0px 3px 2px #00000040;
+    padding: 10px 31px;
+    margin-left: 10px;
+    border-radius: 20px;
+    gap: 10px;
+  }
+  input{
+    font-size: 1vw;
+    border: none;
+  }
+  button{
+    border: none;
+    margin-right: 15px;
+  }
+  

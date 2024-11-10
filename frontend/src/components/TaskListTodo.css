@@ -1,0 +1,64 @@
+.obtn{
+    background-color: rgb(243, 231, 210);
+    color: rgb(233, 159, 21);;
+    padding: 3px;
+    border-radius: 3px;
+}
+.rbtn{
+    background-color: rgb(242, 215, 221);
+    color: rgb(233, 21, 21);;
+    padding: 3px;
+    border-radius: 3px;
+}
+.gbtn{
+    background-color: rgb(224, 234, 224);
+    color: rgb(16, 211, 16);
+    padding: 3px;
+    border-radius: 3px;
+}
+
+.task-item{
+    padding: 20px;
+    margin: 12px 22px;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 2px 3px 5px #00000040;
+}
+.todo{
+    text-align: center;
+    font-size: 1.2em;
+    font-weight:500;
+}
+.blue-line{
+    height: 3px;
+    background-color: blue;
+    margin-top: 11px;
+}
+.header{
+    padding: 15px;
+    column-gap: 3px;
+}
+.heading{
+    font-weight: 700;
+    font-size: large;
+    margin: 9px 0;
+}
+.sub{
+    font-size: 0.9vw;
+    font-weight: normal;
+    margin-bottom: 12px;
+}
+.btns{
+    display: flex;
+    justify-content: space-between;
+}
+.orange-line{
+    height: 3px;
+    background-color: orange;
+    margin-top: 11px;
+}
+.green-line{
+    height: 3px;
+    background-color: rgb(88, 237, 88);
+    margin-top: 11px;
+}
